@@ -1,0 +1,14 @@
+http://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002a/audio/EN2002a.Headset-3.wav
+
+http://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002b/audio/EN2002b.Headset-0.wav
+http://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002b/audio/EN2002b.Headset-1.wav
+http://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002b/audio/EN2002b.Headset-2.wav
+http://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002b/audio/EN2002b.Headset-3.wav
+
+http://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002c/audio/EN2002c.Headset-0.wav
+http://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002c/audio/EN2002c.Headset-1.wav
+
+http://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2003a/audio/EN2003a.Headset-2.wav
+http://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2003a/audio/EN2003a.Headset-3.wav
+
+http://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2009d/audio/EN2009d.Headset-3.wav
